@@ -37,8 +37,6 @@ What this covers:
 
 Key outcome: Transformed 181k raw order item records from the thelook_ecommerce public dataset into a clean dimensional model consisting of one fact table and three dimension tables, with full test coverage and lineage documentation.
 
-🔗 [View project](https://github.com/mayasyed/dbt-ecommerce-portfolio)
-
 ---
 
 ### 3. Customer Churn Analysis
@@ -53,7 +51,7 @@ What this covers:
 
 Key finding: Month-to-month contract customers with fibre internet and no add-on services had the highest churn rate, accounting for a disproportionate share of revenue lost in the first 90 days.
 
-🔗 [View project](https://github.com/mayasyed/Portfolio/blob/main/customer-churn) 🔗 [Live Tableau dashboard](https://public.tableau.com/app/profile/mahanoor.shams/viz/TelcoCustomerChurn_17673780438080/CustomerChurnOverview)
+🔗 [View project](https://github.com/mayasyed/Portfolio/tree/main/customer-churn) 🔗 [Live Tableau dashboard](https://public.tableau.com/app/profile/mahanoor.shams/viz/TelcoCustomerChurn_17673780438080/CustomerChurnOverview)
 
 ---
 
@@ -69,7 +67,7 @@ What this covers:
 
 Key finding: Users with consistently high active minutes during the day showed measurably better sleep duration, while irregular intensity patterns correlated with shorter and more fragmented rest.
 
-🔗 [View project](https://github.com/mayasyed/Portfolio/blob/main/fitness-tracker/README.md)
+🔗 [View project](https://github.com/mayasyed/Portfolio/tree/main/fitness-tracker)
 
 ---
 
